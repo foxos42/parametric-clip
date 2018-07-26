@@ -2,7 +2,7 @@
 Customize: Just edit the parameters(bottom left), click "update" then "Generate STL" and "Download STL". BOOM ready to print.
 
 # Example
-The Example you can download directly at [Thingiverse](https://www.thingiverse.com/thing:2993376) is for the "Intex Quadra Frame Pool" to hold the covering tarpaulin. For the sides rounded version i reduced the resolution to 64.
+The Example you can download directly at [Thingiverse](https://www.thingiverse.com/thing:2993376) is for the "Intex Quadra Frame Pool" to hold the covering tarpaulin. For the sides rounded version i reduced the resolution to 32.
 Parameter for this:
 inner diameter: 58mm
 height: 30mm
